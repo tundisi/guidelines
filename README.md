@@ -135,7 +135,7 @@ Todos los ids que se usen para hacer referencia en la una actividad , fragmento 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:background="@drawable/ic_splash_rappi"
+        android:background="@drawable/ic_splash_prueba"
         android:contentDescription="@string/app_name"
         android:visibility="invisible"/>
 
@@ -146,7 +146,7 @@ Todos los ids que se usen para hacer referencia en la una actividad , fragmento 
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="@dimen/spacing_large"
-        android:background="@drawable/ic_splash_imaginamos"        
+        android:background="@drawable/ic_splash_prueba"        
         android:contentDescription="@string/app_name"/>
 
 </RelativeLayout>
